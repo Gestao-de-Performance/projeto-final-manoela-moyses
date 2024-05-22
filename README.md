@@ -8,7 +8,7 @@ Como criação à parte, adicionei SASS e JavaScript à página. Uma demonstraç
 O carregamento dos arquivos foi realizado via terminal do VS Code utiizando o Git.
 
 <div>
-  <a href="https://manoela-moyses.github.io/portfolio-2.0/" target="_blank">O resultado final pode ser conferido aqui</a>
+  <a href="https://manoela-moyses.github.io/portfolio-2.0/">O resultado final pode ser conferido aqui</a>
 </div>
 
 <div style="display: inline_block"><br>
