@@ -5,10 +5,10 @@ Esta é a versão final do desafio proposto na <i>Escola de Programadores | Apre
 A proposta era criar um site portfólio desenvolido em HTML e CSS, para apresentar meus trabalhos, praticando e revendo tudo o que foi ensinado nas aulas.
 Como criação à parte, adicionei SASS e JavaScript à página. Uma demonstração do site portfólio em formato desktop pode ser vista na imagem abaixo:
 <img style="display-block" margin="auto" align="center" src="https://i.imgur.com/46sXoCh.png">
-O carregamento dos arquivos foi realizado via terminal do VS Code utiizando o Git.
+O carregamento dos arquivos foi realizado via terminal do VS Code utiizando o Git e o deploy do site foi feito na plataforma Vercel.
 
 <div>
-  <a href="https://manoela-moyses.github.io/portfolio-2.0/">O resultado final pode ser conferido aqui</a>
+  <a href="https://portfolio-2-0-ten-rho.vercel.app/">O resultado final pode ser conferido aqui</a>
 </div>
 
 <div style="display: inline_block"><br>
