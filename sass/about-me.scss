@@ -12,7 +12,7 @@
     flex-direction: column-reverse;
   }
   div {
-    max-width: 70%;
+    max-width: 75%;
     animation: leftright 1s 0.5s backwards;
     @include d(medium) {
       max-width: 100%;
